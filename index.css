@@ -1,0 +1,21 @@
+body{
+    background-color: blue;
+}
+
+
+.swiper {
+    width: 600px;
+    height: 600px;
+    padding-left: 1px;
+}
+
+img {
+    width: 100%;
+}
+
+.bom{
+    color: rgb(255, 236, 236);
+    line-height: 20px;
+    background-color: rgb(60, 243, 23);
+    
+}
